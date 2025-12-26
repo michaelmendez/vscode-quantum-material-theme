@@ -1,8 +1,8 @@
 {
   "name": "quantum-material-theme",
   "displayName": "Quantum Material Theme",
-  "description": "⚛️ A beautiful theme inspired by quantum physics and material design - featuring ocean blues and cosmic purples in both dark and light variants for optimal coding experience.",
-  "version": "0.0.6",
+  "description": "A beautiful theme inspired by quantum physics and material design - featuring ocean blues and cosmic purples in dark, light, and void variants for optimal coding experience.",
+  "version": "0.0.7",
   "publisher": "michaelmendez",
   "author": {
     "name": "Michael Mendez",
@@ -58,6 +58,11 @@
         "label": "Quantum Material Theme (Light)",
         "uiTheme": "vs",
         "path": "./themes/quantum-material-theme-ocean-light.json"
+      },
+      {
+        "label": "Void Material Theme (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/void-material-theme.json"
       }
     ]
   }

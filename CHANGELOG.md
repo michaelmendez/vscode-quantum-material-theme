@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.7] - 2025-12-26
+
+### Added
+- 🌑 New Void Theme variant with ultra-dark minimalistic design
+- 📸 Screenshot for Void theme variant
+- 🎨 Color palette section for Void theme in README
+
+### Changed
+- 📝 Updated README with Void theme installation instructions
+- 🖼️ Updated screenshots section to include all three theme variants
+
 ## [0.0.6] - 2025-10-13
 
 ### Added
