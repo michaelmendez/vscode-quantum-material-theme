@@ -50,17 +50,17 @@
   "contributes": {
     "themes": [
       {
-        "label": "Quantum Material Theme (Dark)",
+        "label": "Quantum Material Theme - Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/quantum-material-theme-ocean.json"
       },
       {
-        "label": "Quantum Material Theme (Light)",
+        "label": "Quantum Material Theme - Light",
         "uiTheme": "vs",
         "path": "./themes/quantum-material-theme-ocean-light.json"
       },
       {
-        "label": "Void Material Theme (Dark)",
+        "label": "Quantum Material Theme - Void",
         "uiTheme": "vs-dark",
         "path": "./themes/void-material-theme.json"
       }

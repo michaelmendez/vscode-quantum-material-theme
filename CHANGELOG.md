@@ -5,40 +5,39 @@ All notable changes to the Quantum Material Theme extension will be documented i
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
-
 ## [0.0.7] - 2025-12-26
 
 ### Added
-- 🌑 New Void Theme variant with ultra-dark minimalistic design
-- 📸 Screenshot for Void theme variant
-- 🎨 Color palette section for Void theme in README
+- New Void variant with ultra-dark minimalistic design
+- Screenshot for Void theme variant
+- Color palette section for Void theme in README
 
 ### Changed
-- 📝 Updated README with Void theme installation instructions
-- 🖼️ Updated screenshots section to include all three theme variants
+- Updated theme naming convention to use dashes (e.g., "Quantum Material Theme - Dark")
+- Updated README with Void theme installation instructions
+- Updated screenshots section to include all three theme variants
 
 ## [0.0.6] - 2025-10-13
 
 ### Added
-- ✨ New Light Theme variant with clean, elegant colors
-- 📸 Separate screenshots for Dark and Light themes
-- 💡 Recommended setup section in README with:
+- New Light Theme variant with clean, elegant colors
+- Separate screenshots for Dark and Light themes
+- Recommended setup section in README with:
   - FiraCode Nerd Font configuration and download link
   - Bearded Icons extension recommendation
   - Carbon Product Icons extension recommendation
 - Bold font styling for better readability in Light theme
 
 ### Changed
-- 🎨 Enhanced Light theme with deeper, more visible colors
-- 🔲 Removed all borders in Light theme for seamless appearance
-- 🏷️ Updated theme labels to include "(Dark)" and "(Light)" suffixes
-- 📝 Updated README with color palette comparison for both themes
-- 🖼️ Reorganized screenshots section with clear Dark/Light separation
+- Enhanced Light theme with deeper, more visible colors
+- Removed all borders in Light theme for seamless appearance
+- Updated theme labels to include "(Dark)" and "(Light)" suffixes
+- Updated README with color palette comparison for both themes
+- Reorganized screenshots section with clear Dark/Light separation
 
 ### Fixed
-- 🔧 Fixed transparency issues in Light theme editor overview ruler
-- 📦 Removed `sample-*` from .gitignore to include theme screenshots
+- Fixed transparency issues in Light theme editor overview ruler
+- Removed `sample-*` from .gitignore to include theme screenshots
 
 ## [0.0.5] - 2025-10-03
 
@@ -72,12 +71,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Support for VS Code version 1.74.0 and above
 
 ### Features
-- 🎨 Carefully crafted color palette with quantum-inspired blues and purples
-- 👁️ Reduced eye strain design for long coding sessions
-- 🔍 Enhanced readability with clear distinction between code elements
-- 🎯 Semantic highlighting consistent across all languages
-- 🌙 True dark theme perfect for low-light environments
-- ⚡ Performance optimized and lightweight
+- Carefully crafted color palette with quantum-inspired blues and purples
+- Reduced eye strain design for long coding sessions
+- Enhanced readability with clear distinction between code elements
+- Semantic highlighting consistent across all languages
+- True dark theme perfect for low-light environments
+- Performance optimized and lightweight
 
 ## [0.0.1] - 2025-10-03
 

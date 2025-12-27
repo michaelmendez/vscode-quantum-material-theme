@@ -2,7 +2,7 @@
 
 A sleek, modern theme inspired by quantum physics and material design principles
 
-Quantum Material Theme brings the elegance of material design to your coding environment with a sophisticated color palette that reduces eye strain while maintaining excellent readability and syntax highlighting. Available in dark, light, and void variants to match your coding preference.
+Quantum Material Theme brings the elegance of material design to your coding environment with a sophisticated color palette that reduces eye strain while maintaining excellent readability and syntax highlighting. Available in dark, light, and ultra-dark void variants to match your coding preference.
 
 ## Features
 
@@ -24,7 +24,7 @@ Quantum Material Theme brings the elegance of material design to your coding env
 
 ### Void Theme
 
-![Void Material Theme Dark](https://raw.githubusercontent.com/michaelmendez/quantum-material-theme/main/sample-void-dark.png)
+![Quantum Material Theme Void](https://raw.githubusercontent.com/michaelmendez/quantum-material-theme/main/sample-void-dark.png)
 
 ### Light Theme
 
@@ -38,9 +38,9 @@ Quantum Material Theme brings the elegance of material design to your coding env
 2. Search for `Quantum Material Theme`
 3. Click **Install** to install it
 4. Go to **File** > **Preferences** > **Theme** > **Color Theme** and select your preferred variant:
-   - `Quantum Material Theme (Dark)` - Classic dark theme
-   - `Void Material Theme (Dark)` - Ultra-dark minimalistic theme
-   - `Quantum Material Theme (Light)` - Clean light theme
+   - `Quantum Material Theme - Dark` - Classic dark theme
+   - `Quantum Material Theme - Void` - Ultra-dark minimalistic theme
+   - `Quantum Material Theme - Light` - Clean light theme
 
 ### Via Command Palette
 
