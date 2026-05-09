@@ -5,6 +5,14 @@ All notable changes to the Quantum Material Theme extension will be documented i
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.0.8] - 2026-05-08
+
+### Added
+- Added modern VS Code workbench color coverage across all themes.
+
+### Changed
+- Preserved each theme palette while refreshing documented color tokens.
+
 ## [0.0.7] - 2025-12-26
 
 ### Added
