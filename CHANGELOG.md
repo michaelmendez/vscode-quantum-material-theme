@@ -5,6 +5,11 @@ All notable changes to the Quantum Material Theme extension will be documented i
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.0.11] - 2026-05-10
+
+### Changed
+- Prepared the theme package for the 0.0.11 Marketplace release.
+
 ## [0.0.10] - 2026-05-10
 
 ### Changed
@@ -18,6 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refined the Void theme title bar and Command Center styling for a seamless ultra-dark surface.
 - Matched Command Center normal, active, and debugging backgrounds to the Void palette.
 - Removed visible Command Center borders in the Void theme.
+- Removed selected Activity Bar icon backgrounds across all themes while preserving active indicators.
 
 ## [0.0.8] - 2026-05-08
 
