@@ -5,6 +5,13 @@ All notable changes to the Quantum Material Theme extension will be documented i
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.0.10] - 2026-05-10
+
+### Changed
+- Refined Activity Bar product icon colors across all theme variants.
+- Replaced the default green Extensions Marketplace install button with theme-specific neutral gray styling.
+- Updated the Void theme Activity Bar selection state with a minimal gray accent.
+
 ## [0.0.9] - 2026-05-09
 
 ### Changed

@@ -14,6 +14,7 @@ Quantum Material Theme brings the elegance of material design to your coding env
 - True dark themes - Perfect for low-light environments
 - Clean light theme - Elegant light variant for bright environments
 - Borderless design - Minimalistic interface with seamless UI elements
+- Refined VS Code chrome - Theme-specific Activity Bar icons and neutral extension install buttons
 - Performance optimized - Lightweight and fast loading
 
 ## Screenshots
@@ -61,30 +62,30 @@ The theme uses a carefully selected color palette designed for optimal contrast 
 
 ### Dark Theme
 
-| Element      | Hex Code  |
-| ------------ | --------- |
-| Background   | `#101119` |
-| Primary Blue | `#739cf0` |
-| Text         | `#EEEEEE` |
-| Comments     | `#666666` |
+| Element    | Hex Code  |
+| ---------- | --------- |
+| Background | `#101119` |
+| UI Accent  | `#69d4c9` |
+| Text       | `#EEEEEE` |
+| Comments   | `#666666` |
 
 ### Void Theme
 
-| Element      | Hex Code  |
-| ------------ | --------- |
-| Background   | `#0b0a0b` |
-| Primary Blue | `#6b8dd6` |
-| Text         | `#d0d0d0` |
-| Comments     | `#4a4a4a` |
+| Element    | Hex Code  |
+| ---------- | --------- |
+| Background | `#0b0a0b` |
+| UI Accent  | `#c4c4c4` |
+| Text       | `#d0d0d0` |
+| Comments   | `#4a4a4a` |
 
 ### Light Theme
 
-| Element      | Hex Code  |
-| ------------ | --------- |
-| Background   | `#fafafa` |
-| Primary Blue | `#4b7bdb` |
-| Text         | `#263238` |
-| Comments     | `#90a4ae` |
+| Element    | Hex Code  |
+| ---------- | --------- |
+| Background | `#fafafa` |
+| UI Accent  | `#2f7d79` |
+| Text       | `#263238` |
+| Comments   | `#90a4ae` |
 
 ## Recommended Setup
 
