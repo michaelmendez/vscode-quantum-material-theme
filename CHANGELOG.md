@@ -5,6 +5,14 @@ All notable changes to the Quantum Material Theme extension will be documented i
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.0.12] - 2026-05-13
+
+### Changed
+- Matched the Dark theme Activity Bar and global workbench icon colors to the Void theme gray styling.
+- Replaced badge counter colors across Dark, Void, and Light with neutral gray styling.
+- Refined Void theme workbench icons, badge counters, and success-state UI accents for a more consistent gray surface.
+- Replaced Dark theme green success-state UI accents with neutral gray colors.
+
 ## [0.0.11] - 2026-05-10
 
 ### Changed
